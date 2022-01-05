@@ -1,5 +1,6 @@
 # Project_Django
 Hello,
+
 In the context of a school project, we were able to carry out the study of drug consumption with the implementation of Machine Learning algorithms coded in Python language.
 We work on a dataset about people from all walks of life who answered questions about their drug use. 
 We wanted to manipulate this fairly complete dataset in the most relevant way to finally obtain the best predictions and especially to be able, in a final perspective, to make prevention to the youngest about the dangers of drug addictions.
